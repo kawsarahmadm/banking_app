@@ -1,0 +1,50 @@
+[
+    {
+        "name": "user",
+        "amount": 100,
+        "date": "2024-08-14, 09:11:35 AM",
+        "transitionType": "transfer",
+        "account": "kawsar@gmail.com",
+        "toAccount": "user@gmail.com"
+    },
+    {
+        "name": "user",
+        "amount": 200,
+        "date": "2024-08-14, 09:12:37 AM",
+        "transitionType": "deposit",
+        "account": "user@gmail.com",
+        "toAccount": "user@gmail.com"
+    },
+    {
+        "name": "user",
+        "amount": 100,
+        "date": "2024-08-14, 09:12:53 AM",
+        "transitionType": "withdraw",
+        "account": "user@gmail.com",
+        "toAccount": "user@gmail.com"
+    },
+    {
+        "name": "Kawsar Ahmad",
+        "amount": 50,
+        "date": "2024-08-14, 09:13:21 AM",
+        "transitionType": "transfer",
+        "account": "user@gmail.com",
+        "toAccount": "kawsar@gmail.com"
+    },
+    {
+        "name": "Kawsar Ahmad",
+        "amount": 200,
+        "date": "2024-08-14, 09:14:40 AM",
+        "transitionType": "deposit",
+        "account": "kawsar@gmail.com",
+        "toAccount": "kawsar@gmail.com"
+    },
+    {
+        "name": "user",
+        "amount": 50,
+        "date": "2024-08-14, 09:15:02 AM",
+        "transitionType": "transfer",
+        "account": "kawsar@gmail.com",
+        "toAccount": "user@gmail.com"
+    }
+]

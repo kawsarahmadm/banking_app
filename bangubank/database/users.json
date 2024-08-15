@@ -1,0 +1,26 @@
+[
+    {
+        "id": "bbank_8443",
+        "name": "Kawsar Ahmad",
+        "email": "kawsar@gmail.com",
+        "password": "$2y$10$gH\/Vrc2yJkCEEiwT1rADnuD4BBPyKIJwmnYb3fQiN416IT422Pvna"
+    },
+    {
+        "id": "bbank_2717",
+        "name": "user",
+        "email": "user@gmail.com",
+        "password": "$2y$10$vYZc7rhxEIKd0BNUYomvMeKf4xlRyR0e7Z6K6mAjHwl5OCbPjqMge"
+    },
+    {
+        "id": "bbank_9183",
+        "name": "jafar iqbal",
+        "email": "jafar@gmail.com",
+        "password": "$2y$10$ltdoRkz15uaUvr7h17XjhOP\/jIU9BkIzurWZ6KDT56Bhk\/dAP9xca"
+    },
+    {
+        "id": "bbank_9543",
+        "name": "qurban ali",
+        "email": "qurban@gmail.com",
+        "password": "$2y$10$njFWbW0ukegdprcXt5RNTOFExukTSVamYSQdHLdvW5J3SUHNhSey."
+    }
+]
