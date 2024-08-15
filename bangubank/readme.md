@@ -34,7 +34,7 @@ git clone https://github.com/kawsarahmadm/banking_app.git
 cd bangubank
 ```
 
-## for admin registration
+```## for admin registration
 php admin.php
-
+```
 
